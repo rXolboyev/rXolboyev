@@ -14,7 +14,8 @@
 ```javascript
 const data = {
     pronouns: ["He" | "Him"],
-    codename: "Xolboyev",
+    name: "Xolboyev R.",
+    codename:"rhino",
     status: "still alive",
     doing: "Forging Web Realms...",
     hobbies: ["{Coding}", "{CTF}", "{Speedcubing}", "{Gaming}"], // If that even matters lol
