@@ -28,8 +28,7 @@ const data = {
         }
     },
     contact: {
-        email: "xolboyev-1@proton.me",
-        instagram: "@_.xolboyev_1._"
+        email: "xolboyev@proton.me",
     },
 };
 ```
