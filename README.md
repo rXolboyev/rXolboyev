@@ -17,15 +17,12 @@ const data = {
     codename: "xolboyev.",
     status: "still alive",
     doing: "Forging Web Realms...",
-    hobbies: ["{Coding}", "{CTF}", "{Speedcubing}", "{Gaming}"], // If that even matters lol
+    hobbies: ["{Coding}", "{Music}", "{Speedcubing}", "{Gaming}"], // If that even matters lol
     code: ["{Python}", "{Javascript}", "{Typescript}", "{Bash}"],
     webdev: {
         frontEnd: {
-            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS"],
+            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS", "Material UI"],
         },
-        backEnd: {
-            technologies: ["Node JS", "Express JS", "Next JS", "SQL"],
-        }
     },
     contact: {
         email: "xolboyev@proton.me",
